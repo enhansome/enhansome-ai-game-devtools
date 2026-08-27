@@ -47,7 +47,7 @@
                 "last_commit": "2026-07-20T14:43:34Z",
                 "owner": "agiresearch",
                 "repo": "AIOS",
-                "stars": 6283
+                "stars": 6291
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2025-12-19T07:46:21Z",
                 "owner": "SakanaAI",
                 "repo": "AI-Scientist",
-                "stars": 14445
+                "stars": 14449
               }
             },
             {
@@ -89,10 +89,10 @@
                 "archived": false,
                 "id": 614765452,
                 "language": "Python",
-                "last_commit": "2026-08-25T21:03:11Z",
+                "last_commit": "2026-08-26T23:56:24Z",
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 186863
+                "stars": 186904
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2026-01-31T05:05:45Z",
                 "owner": "yoheinakajima",
                 "repo": "babyagi",
-                "stars": 22357
+                "stars": 22356
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2024-07-18T14:23:01Z",
                 "owner": "baichuan-inc",
                 "repo": "Baichuan-7B",
-                "stars": 5648
+                "stars": 5649
               }
             },
             {
@@ -179,10 +179,10 @@
                 "archived": false,
                 "id": 684031003,
                 "language": "Python",
-                "last_commit": "2026-08-25T12:22:01Z",
+                "last_commit": "2026-08-26T14:28:43Z",
                 "owner": "dataelement",
                 "repo": "bisheng",
-                "stars": 11912
+                "stars": 11911
               }
             },
             {
@@ -212,7 +212,7 @@
                 "last_commit": "2026-07-24T08:01:27Z",
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34125
+                "stars": 34126
               }
             },
             {
@@ -317,7 +317,7 @@
                 "last_commit": "2025-10-09T07:33:23Z",
                 "owner": "apple",
                 "repo": "corenet",
-                "stars": 7005
+                "stars": 7007
               }
             },
             {
@@ -332,7 +332,7 @@
                 "last_commit": "2026-08-25T12:46:29Z",
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11625
+                "stars": 11641
               }
             },
             {
@@ -347,7 +347,7 @@
                 "last_commit": "2025-09-09T04:40:36Z",
                 "owner": "mlfoundations",
                 "repo": "dclm",
-                "stars": 1468
+                "stars": 1467
               }
             },
             {
@@ -362,7 +362,7 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92043
+                "stars": 92038
               }
             },
             {
@@ -377,7 +377,7 @@
                 "last_commit": "2025-08-28T03:24:37Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-V3",
-                "stars": 104414
+                "stars": 104416
               }
             },
             {
@@ -422,7 +422,7 @@
                 "last_commit": "2025-09-25T08:47:36Z",
                 "owner": "stitionai",
                 "repo": "devika",
-                "stars": 19560
+                "stars": 19561
               }
             },
             {
@@ -452,7 +452,7 @@
                 "last_commit": "2026-08-13T12:38:19Z",
                 "owner": "FlowiseAI",
                 "repo": "Flowise",
-                "stars": 55389
+                "stars": 55396
               }
             },
             {
@@ -467,7 +467,7 @@
                 "last_commit": "2025-05-30T20:45:51Z",
                 "owner": "google",
                 "repo": "gemma_pytorch",
-                "stars": 5720
+                "stars": 5719
               }
             },
             {
@@ -479,10 +479,10 @@
                 "archived": false,
                 "id": 756673810,
                 "language": "C++",
-                "last_commit": "2026-08-25T19:07:46Z",
+                "last_commit": "2026-08-26T18:54:38Z",
                 "owner": "google",
                 "repo": "gemma.cpp",
-                "stars": 7030
+                "stars": 7031
               }
             },
             {
@@ -512,7 +512,7 @@
                 "last_commit": "2026-02-01T08:28:10Z",
                 "owner": "zai-org",
                 "repo": "GLM-4.5",
-                "stars": 4414
+                "stars": 4416
               }
             },
             {
@@ -527,7 +527,7 @@
                 "last_commit": "2025-05-27T20:05:19Z",
                 "owner": "nomic-ai",
                 "repo": "gpt4all",
-                "stars": 77396
+                "stars": 77397
               }
             },
             {
@@ -542,7 +542,7 @@
                 "last_commit": "2026-07-24T18:56:01Z",
                 "owner": "openai",
                 "repo": "gpt-oss",
-                "stars": 20342
+                "stars": 20347
               }
             },
             {
@@ -632,7 +632,7 @@
                 "last_commit": "2024-06-17T20:11:11Z",
                 "owner": "Interactml",
                 "repo": "iml-unity",
-                "stars": 184
+                "stars": 183
               }
             },
             {
@@ -662,7 +662,7 @@
                 "last_commit": "2025-10-30T00:35:43Z",
                 "owner": "InternLM",
                 "repo": "InternLM",
-                "stars": 7268
+                "stars": 7269
               }
             },
             {
@@ -689,10 +689,10 @@
                 "archived": false,
                 "id": 679506386,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T11:44:43Z",
+                "last_commit": "2026-08-26T09:51:39Z",
                 "owner": "janhq",
                 "repo": "jan",
-                "stars": 44173
+                "stars": 44202
               }
             },
             {
@@ -707,7 +707,7 @@
                 "last_commit": "2025-02-01T07:58:29Z",
                 "owner": "deepseek-ai",
                 "repo": "Janus",
-                "stars": 17755
+                "stars": 17757
               }
             },
             {
@@ -722,7 +722,7 @@
                 "last_commit": "2026-01-21T05:33:12Z",
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K2",
-                "stars": 11106
+                "stars": 11105
               }
             },
             {
@@ -764,10 +764,10 @@
                 "archived": false,
                 "id": 552661142,
                 "language": "Python",
-                "last_commit": "2026-08-25T20:44:31Z",
+                "last_commit": "2026-08-26T23:12:17Z",
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 144977
+                "stars": 145076
               }
             },
             {
@@ -779,10 +779,10 @@
                 "archived": false,
                 "id": 599320067,
                 "language": "Python",
-                "last_commit": "2026-08-25T21:04:37Z",
+                "last_commit": "2026-08-27T00:06:40Z",
                 "owner": "langflow-ai",
                 "repo": "langflow",
-                "stars": 153678
+                "stars": 153718
               }
             },
             {
@@ -797,7 +797,7 @@
                 "last_commit": "2025-01-21T13:41:48Z",
                 "owner": "lavague-ai",
                 "repo": "LaVague",
-                "stars": 6390
+                "stars": 6389
               }
             },
             {
@@ -824,10 +824,10 @@
                 "archived": false,
                 "id": 688186076,
                 "language": "Python",
-                "last_commit": "2026-08-25T17:03:03Z",
+                "last_commit": "2026-08-26T00:35:59Z",
                 "owner": "leptonai",
                 "repo": "leptonai",
-                "stars": 2824
+                "stars": 2825
               }
             },
             {
@@ -872,7 +872,7 @@
                 "last_commit": "2025-01-26T21:39:06Z",
                 "owner": "meta-llama",
                 "repo": "llama3",
-                "stars": 29246
+                "stars": 29247
               }
             },
             {
@@ -917,7 +917,7 @@
                 "last_commit": "2026-04-29T12:29:50Z",
                 "owner": "developersdigest",
                 "repo": "llm-answer-engine",
-                "stars": 5037
+                "stars": 5036
               }
             },
             {
@@ -932,7 +932,7 @@
                 "last_commit": "2025-06-26T17:03:40Z",
                 "owner": "karpathy",
                 "repo": "llm.c",
-                "stars": 30868
+                "stars": 30878
               }
             },
             {
@@ -992,7 +992,7 @@
                 "last_commit": "2026-06-23T12:07:22Z",
                 "owner": "meituan-longcat",
                 "repo": "LongCat-Flash-Chat",
-                "stars": 1364
+                "stars": 1365
               }
             },
             {
@@ -1007,7 +1007,7 @@
                 "last_commit": "2025-06-24T06:41:41Z",
                 "owner": "THUDM",
                 "repo": "LongWriter",
-                "stars": 1874
+                "stars": 1875
               }
             },
             {
@@ -1052,7 +1052,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 70019
+                "stars": 70050
               }
             },
             {
@@ -1067,7 +1067,7 @@
                 "last_commit": "2026-07-27T06:50:07Z",
                 "owner": "OpenBMB",
                 "repo": "MiniCPM",
-                "stars": 10243
+                "stars": 10250
               }
             },
             {
@@ -1082,7 +1082,7 @@
                 "last_commit": "2024-09-02T09:07:21Z",
                 "owner": "Vision-CAIR",
                 "repo": "MiniGPT-4",
-                "stars": 25628
+                "stars": 25627
               }
             },
             {
@@ -1112,7 +1112,7 @@
                 "last_commit": "2025-07-07T12:24:30Z",
                 "owner": "MiniMax-AI",
                 "repo": "MiniMax-01",
-                "stars": 3465
+                "stars": 3466
               }
             },
             {
@@ -1127,7 +1127,7 @@
                 "last_commit": "2026-08-17T20:50:06Z",
                 "owner": "mlc-ai",
                 "repo": "mlc-llm",
-                "stars": 23088
+                "stars": 23095
               }
             },
             {
@@ -1142,7 +1142,7 @@
                 "last_commit": "2025-05-10T07:13:06Z",
                 "owner": "mbzuai-oryx",
                 "repo": "MobiLlama",
-                "stars": 670
+                "stars": 671
               }
             },
             {
@@ -1172,7 +1172,7 @@
                 "last_commit": "2026-05-16T13:14:41Z",
                 "owner": "kyutai-labs",
                 "repo": "moshi",
-                "stars": 10942
+                "stars": 10949
               }
             },
             {
@@ -1187,7 +1187,7 @@
                 "last_commit": "2026-05-27T13:16:14Z",
                 "owner": "OpenMOSS",
                 "repo": "MOSS",
-                "stars": 12227
+                "stars": 12230
               }
             },
             {
@@ -1217,7 +1217,7 @@
                 "last_commit": "2025-05-13T09:57:47Z",
                 "owner": "NExT-GPT",
                 "repo": "NExT-GPT",
-                "stars": 3638
+                "stars": 3637
               }
             },
             {
@@ -1232,7 +1232,7 @@
                 "last_commit": "2025-11-24T19:13:15Z",
                 "owner": "allenai",
                 "repo": "OLMo",
-                "stars": 6645
+                "stars": 6648
               }
             },
             {
@@ -1244,10 +1244,10 @@
                 "archived": false,
                 "id": 749647889,
                 "language": "Python",
-                "last_commit": "2026-08-25T17:06:29Z",
+                "last_commit": "2026-08-26T09:50:07Z",
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26233
+                "stars": 26240
               }
             },
             {
@@ -1277,7 +1277,7 @@
                 "last_commit": "2024-08-17T01:55:35Z",
                 "owner": "LAION-AI",
                 "repo": "Open-Assistant",
-                "stars": 37405
+                "stars": 37408
               }
             },
             {
@@ -1292,7 +1292,7 @@
                 "last_commit": "2026-04-11T23:58:25Z",
                 "owner": "dzhng",
                 "repo": "deep-research",
-                "stars": 19596
+                "stars": 19603
               }
             },
             {
@@ -1304,10 +1304,10 @@
                 "archived": false,
                 "id": 771302083,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T18:08:43Z",
+                "last_commit": "2026-08-27T00:11:03Z",
                 "owner": "OpenHands",
                 "repo": "OpenHands",
-                "stars": 85089
+                "stars": 85199
               }
             },
             {
@@ -1337,7 +1337,7 @@
                 "last_commit": "2023-10-19T16:05:28Z",
                 "owner": "dandelionsllm",
                 "repo": "pandallm",
-                "stars": 1030
+                "stars": 1031
               }
             },
             {
@@ -1352,7 +1352,7 @@
                 "last_commit": "2026-04-11T14:33:06Z",
                 "owner": "ItzCrazyKns",
                 "repo": "Vane",
-                "stars": 36470
+                "stars": 36489
               }
             },
             {
@@ -1367,7 +1367,7 @@
                 "last_commit": "2026-01-09T03:05:47Z",
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27556
+                "stars": 27561
               }
             },
             {
@@ -1382,7 +1382,7 @@
                 "last_commit": "2026-01-09T03:05:47Z",
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27556
+                "stars": 27561
               }
             },
             {
@@ -1397,7 +1397,7 @@
                 "last_commit": "2026-03-24T08:22:10Z",
                 "owner": "QwenLM",
                 "repo": "Qwen3-Coder",
-                "stars": 16809
+                "stars": 16810
               }
             },
             {
@@ -1412,7 +1412,7 @@
                 "last_commit": "2026-03-05T13:55:17Z",
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21647
+                "stars": 21654
               }
             },
             {
@@ -1427,7 +1427,7 @@
                 "last_commit": "2026-01-09T03:05:47Z",
                 "owner": "QwenLM",
                 "repo": "Qwen3",
-                "stars": 27556
+                "stars": 27561
               }
             },
             {
@@ -1502,7 +1502,7 @@
                 "last_commit": "2025-09-15T03:44:13Z",
                 "owner": "ByteDance-Seed",
                 "repo": "seed-oss",
-                "stars": 890
+                "stars": 891
               }
             },
             {
@@ -1517,7 +1517,7 @@
                 "last_commit": "2025-07-12T03:05:27Z",
                 "owner": "NovaSky-AI",
                 "repo": "SkyThought",
-                "stars": 3398
+                "stars": 3399
               }
             },
             {
@@ -1562,7 +1562,7 @@
                 "last_commit": "2024-07-17T09:43:05Z",
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30244
+                "stars": 30247
               }
             },
             {
@@ -1577,7 +1577,7 @@
                 "last_commit": "2026-08-17T17:38:16Z",
                 "owner": "oobabooga",
                 "repo": "textgen",
-                "stars": 47578
+                "stars": 47585
               }
             },
             {
@@ -1607,7 +1607,7 @@
                 "last_commit": "2025-05-21T15:46:59Z",
                 "owner": "OpenBMB",
                 "repo": "ToolBench",
-                "stars": 5733
+                "stars": 5732
               }
             },
             {
@@ -1802,7 +1802,7 @@
                 "last_commit": "2025-05-15T10:31:45Z",
                 "owner": "BlinkDL",
                 "repo": "AI-Writer",
-                "stars": 3867
+                "stars": 3871
               }
             },
             {
@@ -1814,7 +1814,7 @@
                 "archived": false,
                 "id": 37361517,
                 "language": "HTML",
-                "last_commit": "2026-08-24T23:55:15Z",
+                "last_commit": "2026-08-26T20:12:03Z",
                 "owner": "indentlabs",
                 "repo": "notebook",
                 "stars": 407
@@ -1832,7 +1832,7 @@
                 "last_commit": "2025-01-18T14:26:33Z",
                 "owner": "steven-tey",
                 "repo": "novel",
-                "stars": 16428
+                "stars": 16432
               }
             },
             {
@@ -1847,7 +1847,7 @@
                 "last_commit": "2026-08-24T23:55:08Z",
                 "owner": "IvanMurzak",
                 "repo": "Unity-MCP",
-                "stars": 3981
+                "stars": 3989
               }
             },
             {
@@ -1862,7 +1862,7 @@
                 "last_commit": "2026-08-24T22:49:14Z",
                 "owner": "IvanMurzak",
                 "repo": "Godot-MCP",
-                "stars": 225
+                "stars": 224
               }
             },
             {
@@ -1907,7 +1907,7 @@
                 "last_commit": "2026-08-24T22:12:53Z",
                 "owner": "IvanMurzak",
                 "repo": "MCP-Plugin-dotnet",
-                "stars": 19
+                "stars": 20
               }
             },
             {
@@ -2008,7 +2008,7 @@
             "last_commit": "2026-07-21T16:03:29Z",
             "owner": "zai-org",
             "repo": "GLM-V",
-            "stars": 2368
+            "stars": 2370
           }
         },
         {
@@ -2068,7 +2068,7 @@
             "last_commit": "2025-08-05T01:09:04Z",
             "owner": "mbzuai-oryx",
             "repo": "LLaVA-pp",
-            "stars": 843
+            "stars": 842
           }
         },
         {
@@ -2083,7 +2083,7 @@
             "last_commit": "2026-06-15T06:32:49Z",
             "owner": "LLaVA-VL",
             "repo": "LLaVA-NeXT",
-            "stars": 4715
+            "stars": 4716
           }
         },
         {
@@ -2125,10 +2125,10 @@
             "archived": false,
             "id": 749647889,
             "language": "Python",
-            "last_commit": "2026-08-25T17:06:29Z",
+            "last_commit": "2026-08-26T09:50:07Z",
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26233
+            "stars": 26240
           }
         },
         {
@@ -2140,10 +2140,10 @@
             "archived": false,
             "id": 749647889,
             "language": "Python",
-            "last_commit": "2026-08-25T17:06:29Z",
+            "last_commit": "2026-08-26T09:50:07Z",
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26233
+            "stars": 26240
           }
         },
         {
@@ -2218,7 +2218,7 @@
             "last_commit": "2024-08-07T02:37:06Z",
             "owner": "QwenLM",
             "repo": "Qwen-VL",
-            "stars": 6727
+            "stars": 6726
           }
         },
         {
@@ -2233,7 +2233,7 @@
             "last_commit": "2026-05-26T19:50:55Z",
             "owner": "facebookresearch",
             "repo": "sapiens",
-            "stars": 5419
+            "stars": 5418
           }
         },
         {
@@ -2323,7 +2323,7 @@
             "last_commit": "2025-01-23T04:20:22Z",
             "owner": "DAMO-NLP-SG",
             "repo": "VideoLLaMA2",
-            "stars": 1306
+            "stars": 1307
           }
         },
         {
@@ -2338,7 +2338,7 @@
             "last_commit": "2025-08-14T06:52:30Z",
             "owner": "DAMO-NLP-SG",
             "repo": "VideoLLaMA3",
-            "stars": 1178
+            "stars": 1179
           }
         },
         {
@@ -2383,7 +2383,7 @@
             "last_commit": "2026-03-12T01:04:00Z",
             "owner": "NVlabs",
             "repo": "VILA",
-            "stars": 3858
+            "stars": 3857
           }
         }
       ],
@@ -2404,7 +2404,7 @@
             "last_commit": "2026-02-08T17:01:05Z",
             "owner": "THUDM",
             "repo": "AgentBench",
-            "stars": 3692
+            "stars": 3695
           }
         },
         {
@@ -2449,7 +2449,7 @@
             "last_commit": "2025-08-20T21:46:43Z",
             "owner": "SamuelSchmidgall",
             "repo": "AgentLaboratory",
-            "stars": 5808
+            "stars": 5809
           }
         },
         {
@@ -2461,10 +2461,10 @@
             "archived": false,
             "id": 742244656,
             "language": "Python",
-            "last_commit": "2026-08-25T06:33:09Z",
+            "last_commit": "2026-08-26T10:14:53Z",
             "owner": "agentscope-ai",
             "repo": "agentscope",
-            "stars": 29578
+            "stars": 29704
           }
         },
         {
@@ -2479,7 +2479,7 @@
             "last_commit": "2023-11-18T05:17:33Z",
             "owner": "py499372727",
             "repo": "AgentSims",
-            "stars": 964
+            "stars": 965
           }
         },
         {
@@ -2491,10 +2491,10 @@
             "archived": false,
             "id": 666931247,
             "language": "TypeScript",
-            "last_commit": "2026-06-12T21:44:10Z",
+            "last_commit": "2026-08-26T00:34:11Z",
             "owner": "a16z-infra",
             "repo": "ai-town",
-            "stars": 10389
+            "stars": 10392
           }
         },
         {
@@ -2524,7 +2524,7 @@
             "last_commit": "2026-08-24T12:20:08Z",
             "owner": "Eigenwise",
             "repo": "atomic-agents",
-            "stars": 6198
+            "stars": 6202
           }
         },
         {
@@ -2554,7 +2554,7 @@
             "last_commit": "2026-04-15T11:59:09Z",
             "owner": "microsoft",
             "repo": "autogen",
-            "stars": 60627
+            "stars": 60643
           }
         },
         {
@@ -2566,7 +2566,7 @@
             "archived": false,
             "id": 948379879,
             "language": "Python",
-            "last_commit": "2026-08-25T13:01:56Z",
+            "last_commit": "2026-08-26T14:54:49Z",
             "owner": "inclusionAI",
             "repo": "AWorld",
             "stars": 1226
@@ -2689,7 +2689,7 @@
             "last_commit": "2026-07-24T08:01:27Z",
             "owner": "OpenBMB",
             "repo": "ChatDev",
-            "stars": 34125
+            "stars": 34126
           }
         },
         {
@@ -2719,7 +2719,7 @@
             "last_commit": "2024-11-07T04:58:20Z",
             "owner": "BAAI-Agents",
             "repo": "Cradle",
-            "stars": 2572
+            "stars": 2573
           }
         },
         {
@@ -2731,10 +2731,10 @@
             "archived": false,
             "id": 710601088,
             "language": "Python",
-            "last_commit": "2026-08-25T20:45:58Z",
+            "last_commit": "2026-08-27T00:13:19Z",
             "owner": "crewAIInc",
             "repo": "crewAI",
-            "stars": 57606
+            "stars": 57650
           }
         },
         {
@@ -2761,10 +2761,10 @@
             "archived": false,
             "id": 626805178,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T16:48:39Z",
+            "last_commit": "2026-08-26T21:09:50Z",
             "owner": "langgenius",
             "repo": "dify",
-            "stars": 153494
+            "stars": 153595
           }
         },
         {
@@ -2794,7 +2794,7 @@
             "last_commit": "2026-08-09T20:55:42Z",
             "owner": "danielmiessler",
             "repo": "Fabric",
-            "stars": 43527
+            "stars": 43541
           }
         },
         {
@@ -2806,10 +2806,10 @@
             "archived": false,
             "id": 605673387,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T14:13:36Z",
+            "last_commit": "2026-08-26T12:23:08Z",
             "owner": "labring",
             "repo": "FastGPT",
-            "stars": 29450
+            "stars": 29477
           }
         },
         {
@@ -2869,7 +2869,7 @@
             "last_commit": "2024-08-05T21:38:56Z",
             "owner": "joonspk-research",
             "repo": "generative_agents",
-            "stars": 21987
+            "stars": 21995
           }
         },
         {
@@ -2881,10 +2881,10 @@
             "archived": false,
             "id": 712225112,
             "language": "Python",
-            "last_commit": "2026-08-24T22:16:22Z",
+            "last_commit": "2026-08-26T16:28:42Z",
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 29798
+            "stars": 29809
           }
         },
         {
@@ -2914,7 +2914,7 @@
             "last_commit": "2026-08-23T14:35:10Z",
             "owner": "OSU-NLP-Group",
             "repo": "HippoRAG",
-            "stars": 3966
+            "stars": 3967
           }
         },
         {
@@ -2974,7 +2974,7 @@
             "last_commit": "2026-06-10T07:10:23Z",
             "owner": "Tencent-Hunyuan",
             "repo": "HY-WorldPlay",
-            "stars": 1584
+            "stars": 1586
           }
         },
         {
@@ -3019,7 +3019,7 @@
             "last_commit": "2026-03-02T03:46:42Z",
             "owner": "11cafe",
             "repo": "jaaz",
-            "stars": 6588
+            "stars": 6589
           }
         },
         {
@@ -3046,10 +3046,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-25T20:44:31Z",
+            "last_commit": "2026-08-26T23:12:17Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144977
+            "stars": 145076
           }
         },
         {
@@ -3061,10 +3061,10 @@
             "archived": false,
             "id": 599320067,
             "language": "Python",
-            "last_commit": "2026-08-25T21:04:37Z",
+            "last_commit": "2026-08-27T00:06:40Z",
             "owner": "langflow-ai",
             "repo": "langflow",
-            "stars": 153678
+            "stars": 153718
           }
         },
         {
@@ -3106,10 +3106,10 @@
             "archived": false,
             "id": 560704231,
             "language": "Python",
-            "last_commit": "2026-08-24T21:24:35Z",
+            "last_commit": "2026-08-26T15:31:33Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51869
+            "stars": 51883
           }
         },
         {
@@ -3124,7 +3124,7 @@
             "last_commit": "2026-03-30T06:32:00Z",
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2312
+            "stars": 2314
           }
         },
         {
@@ -3139,7 +3139,7 @@
             "last_commit": "2026-03-30T06:32:00Z",
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2312
+            "stars": 2314
           }
         },
         {
@@ -3154,7 +3154,7 @@
             "last_commit": "2025-07-04T10:06:45Z",
             "owner": "InternLM",
             "repo": "MindSearch",
-            "stars": 6917
+            "stars": 6918
           }
         },
         {
@@ -3169,7 +3169,7 @@
             "last_commit": "2025-01-07T03:21:19Z",
             "owner": "togethercomputer",
             "repo": "MoA",
-            "stars": 2969
+            "stars": 2970
           }
         },
         {
@@ -3214,7 +3214,7 @@
             "last_commit": "2026-08-23T22:59:02Z",
             "owner": "NVIDIA",
             "repo": "NeMo-Agent-Toolkit",
-            "stars": 2601
+            "stars": 2603
           }
         },
         {
@@ -3259,7 +3259,7 @@
             "last_commit": "2024-11-18T09:39:29Z",
             "owner": "xlang-ai",
             "repo": "OpenAgents",
-            "stars": 4858
+            "stars": 4859
           }
         },
         {
@@ -3274,7 +3274,7 @@
             "last_commit": "2026-08-22T10:57:44Z",
             "owner": "leigest519",
             "repo": "OpenGame",
-            "stars": 2854
+            "stars": 2859
           }
         },
         {
@@ -3286,10 +3286,10 @@
             "archived": false,
             "id": 736272311,
             "language": "Python",
-            "last_commit": "2026-08-25T20:00:57Z",
+            "last_commit": "2026-08-26T23:32:34Z",
             "owner": "pipecat-ai",
             "repo": "pipecat",
-            "stars": 14712
+            "stars": 14769
           }
         },
         {
@@ -3304,7 +3304,7 @@
             "last_commit": "2026-03-04T08:15:07Z",
             "owner": "QwenLM",
             "repo": "Qwen-Agent",
-            "stars": 17012
+            "stars": 17018
           }
         },
         {
@@ -3319,7 +3319,7 @@
             "last_commit": "2026-02-24T07:47:19Z",
             "owner": "vibrantlabsai",
             "repo": "ragas",
-            "stars": 15468
+            "stars": 15485
           }
         },
         {
@@ -3349,7 +3349,7 @@
             "last_commit": "2026-08-24T22:03:09Z",
             "owner": "SWE-agent",
             "repo": "SWE-agent",
-            "stars": 20135
+            "stars": 20147
           }
         },
         {
@@ -3376,10 +3376,10 @@
             "archived": false,
             "id": 817354652,
             "language": "Python",
-            "last_commit": "2026-08-24T12:25:55Z",
+            "last_commit": "2026-08-26T12:01:59Z",
             "owner": "TEN-framework",
             "repo": "ten-framework",
-            "stars": 11080
+            "stars": 11082
           }
         },
         {
@@ -3394,7 +3394,7 @@
             "last_commit": "2024-08-04T06:14:56Z",
             "owner": "andrewyng",
             "repo": "translation-agent",
-            "stars": 5802
+            "stars": 5804
           }
         },
         {
@@ -3565,7 +3565,7 @@
             "last_commit": "2024-08-25T14:26:16Z",
             "owner": "zai-org",
             "repo": "CodeGeeX4",
-            "stars": 2582
+            "stars": 2585
           }
         },
         {
@@ -3610,7 +3610,7 @@
             "last_commit": "2024-08-12T12:49:54Z",
             "owner": "meta-llama",
             "repo": "codellama",
-            "stars": 16264
+            "stars": 16265
           }
         },
         {
@@ -3670,7 +3670,7 @@
             "last_commit": "2025-11-11T06:44:56Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder",
-            "stars": 24214
+            "stars": 24217
           }
         },
         {
@@ -3685,7 +3685,7 @@
             "last_commit": "2025-10-28T10:02:13Z",
             "owner": "sinaptik-ai",
             "repo": "pandas-ai",
-            "stars": 23766
+            "stars": 23772
           }
         },
         {
@@ -3730,7 +3730,7 @@
             "last_commit": "2024-02-27T02:05:57Z",
             "owner": "bigcode-project",
             "repo": "starcoder",
-            "stars": 7504
+            "stars": 7506
           }
         },
         {
@@ -3745,7 +3745,7 @@
             "last_commit": "2024-03-21T11:54:59Z",
             "owner": "bigcode-project",
             "repo": "starcoder2",
-            "stars": 2086
+            "stars": 2087
           }
         },
         {
@@ -3760,7 +3760,7 @@
             "last_commit": "2026-08-20T09:52:51Z",
             "owner": "Tura-AI",
             "repo": "tura",
-            "stars": 602
+            "stars": 601
           }
         },
         {
@@ -3790,7 +3790,7 @@
             "last_commit": "2026-06-02T22:03:55Z",
             "owner": "voideditor",
             "repo": "void",
-            "stars": 28828
+            "stars": 28825
           }
         }
       ],
@@ -3841,7 +3841,7 @@
             "last_commit": "2026-05-04T17:01:02Z",
             "owner": "ByteDance-Seed",
             "repo": "Bagel",
-            "stars": 6157
+            "stars": 6159
           }
         },
         {
@@ -3886,7 +3886,7 @@
             "last_commit": "2025-12-16T00:59:26Z",
             "owner": "Zheng-Chong",
             "repo": "CatVTON",
-            "stars": 1823
+            "stars": 1824
           }
         },
         {
@@ -3913,10 +3913,10 @@
             "archived": false,
             "id": 589831718,
             "language": "Python",
-            "last_commit": "2026-08-25T20:29:16Z",
+            "last_commit": "2026-08-26T23:18:02Z",
             "owner": "Comfy-Org",
             "repo": "ComfyUI",
-            "stars": 129957
+            "stars": 130154
           }
         },
         {
@@ -3946,7 +3946,7 @@
             "last_commit": "2024-02-25T09:49:39Z",
             "owner": "lllyasviel",
             "repo": "ControlNet",
-            "stars": 34085
+            "stars": 34091
           }
         },
         {
@@ -3976,7 +3976,7 @@
             "last_commit": "2024-04-14T05:26:35Z",
             "owner": "deep-floyd",
             "repo": "IF",
-            "stars": 7804
+            "stars": 7803
           }
         },
         {
@@ -3991,7 +3991,7 @@
             "last_commit": "2026-03-24T10:59:06Z",
             "owner": "DepthAnything",
             "repo": "Depth-Anything-V2",
-            "stars": 8704
+            "stars": 8709
           }
         },
         {
@@ -4021,7 +4021,7 @@
             "last_commit": "2023-07-09T06:30:00Z",
             "owner": "alembics",
             "repo": "disco-diffusion",
-            "stars": 7396
+            "stars": 7397
           }
         },
         {
@@ -4036,7 +4036,7 @@
             "last_commit": "2024-05-18T17:51:40Z",
             "owner": "XingangPan",
             "repo": "DragGAN",
-            "stars": 35757
+            "stars": 35755
           }
         },
         {
@@ -4081,7 +4081,7 @@
             "last_commit": "2025-07-31T13:58:55Z",
             "owner": "black-forest-labs",
             "repo": "flux",
-            "stars": 25909
+            "stars": 25912
           }
         },
         {
@@ -4111,7 +4111,7 @@
             "last_commit": "2025-12-01T19:17:07Z",
             "owner": "lllyasviel",
             "repo": "Fooocus",
-            "stars": 52534
+            "stars": 52550
           }
         },
         {
@@ -4141,7 +4141,7 @@
             "last_commit": "2024-09-05T06:07:32Z",
             "owner": "IDEA-Research",
             "repo": "Grounded-Segment-Anything",
-            "stars": 17707
+            "stars": 17710
           }
         },
         {
@@ -4156,7 +4156,7 @@
             "last_commit": "2026-07-03T04:12:11Z",
             "owner": "Zeyi-Lin",
             "repo": "HivisionIDPhotos",
-            "stars": 21414
+            "stars": 21420
           }
         },
         {
@@ -4186,7 +4186,7 @@
             "last_commit": "2025-11-27T06:37:00Z",
             "owner": "Tencent-Hunyuan",
             "repo": "HunyuanDiT",
-            "stars": 4292
+            "stars": 4291
           }
         },
         {
@@ -4216,7 +4216,7 @@
             "last_commit": "2026-06-23T13:12:44Z",
             "owner": "Tencent-Hunyuan",
             "repo": "HunyuanImage-3.0",
-            "stars": 3251
+            "stars": 3253
           }
         },
         {
@@ -4231,7 +4231,7 @@
             "last_commit": "2025-02-20T15:52:35Z",
             "owner": "lllyasviel",
             "repo": "IC-Light",
-            "stars": 8506
+            "stars": 8508
           }
         },
         {
@@ -4246,7 +4246,7 @@
             "last_commit": "2025-08-01T20:39:35Z",
             "owner": "GaParmar",
             "repo": "img2img-turbo",
-            "stars": 2475
+            "stars": 2476
           }
         },
         {
@@ -4531,7 +4531,7 @@
             "last_commit": "2025-08-13T22:11:05Z",
             "owner": "lllyasviel",
             "repo": "Paints-UNDO",
-            "stars": 4066
+            "stars": 4067
           }
         },
         {
@@ -4561,7 +4561,7 @@
             "last_commit": "2026-08-18T03:09:57Z",
             "owner": "Hunyuan-PromptEnhancer",
             "repo": "PromptEnhancer",
-            "stars": 3757
+            "stars": 3758
           }
         },
         {
@@ -4576,7 +4576,7 @@
             "last_commit": "2025-07-31T18:08:38Z",
             "owner": "ToTheBeginning",
             "repo": "PuLID",
-            "stars": 3549
+            "stars": 3550
           }
         },
         {
@@ -4591,7 +4591,7 @@
             "last_commit": "2026-02-10T07:37:37Z",
             "owner": "QwenLM",
             "repo": "Qwen-Image",
-            "stars": 8259
+            "stars": 8265
           }
         },
         {
@@ -4606,7 +4606,7 @@
             "last_commit": "2026-02-10T07:37:37Z",
             "owner": "QwenLM",
             "repo": "Qwen-Image",
-            "stars": 8259
+            "stars": 8265
           }
         },
         {
@@ -4666,7 +4666,7 @@
             "last_commit": "2026-05-30T02:29:40Z",
             "owner": "facebookresearch",
             "repo": "sam2",
-            "stars": 19760
+            "stars": 19770
           }
         },
         {
@@ -4711,7 +4711,7 @@
             "last_commit": "2026-07-13T09:20:26Z",
             "owner": "SkyworkAI",
             "repo": "UniPic",
-            "stars": 871
+            "stars": 872
           }
         },
         {
@@ -4726,7 +4726,7 @@
             "last_commit": "2026-07-16T08:20:43Z",
             "owner": "Hugo-Dz",
             "repo": "spritefusion-pixel-snapper",
-            "stars": 3081
+            "stars": 3089
           }
         },
         {
@@ -4756,7 +4756,7 @@
             "last_commit": "2024-07-25T11:54:13Z",
             "owner": "Stability-AI",
             "repo": "StableCascade",
-            "stars": 6541
+            "stars": 6540
           }
         },
         {
@@ -4771,7 +4771,7 @@
             "last_commit": "2024-06-18T01:53:49Z",
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73345
+            "stars": 73347
           }
         },
         {
@@ -4783,10 +4783,10 @@
             "archived": false,
             "id": 677953180,
             "language": "C++",
-            "last_commit": "2026-08-25T18:59:09Z",
+            "last_commit": "2026-08-26T15:45:37Z",
             "owner": "leejet",
             "repo": "stable-diffusion.cpp",
-            "stars": 6840
+            "stars": 6846
           }
         },
         {
@@ -4801,7 +4801,7 @@
             "last_commit": "2026-03-02T07:00:53Z",
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 164661
+            "stars": 164678
           }
         },
         {
@@ -4816,7 +4816,7 @@
             "last_commit": "2026-07-17T11:14:29Z",
             "owner": "Sygil-Dev",
             "repo": "sygil-webui",
-            "stars": 7869
+            "stars": 7870
           }
         },
         {
@@ -4846,7 +4846,7 @@
             "last_commit": "2025-01-08T14:05:05Z",
             "owner": "Stability-AI",
             "repo": "sd3.5",
-            "stars": 1528
+            "stars": 1529
           }
         },
         {
@@ -4861,7 +4861,7 @@
             "last_commit": "2024-04-30T20:05:06Z",
             "owner": "Stability-AI",
             "repo": "StableStudio",
-            "stars": 9047
+            "stars": 9048
           }
         },
         {
@@ -4891,7 +4891,7 @@
             "last_commit": "2024-12-04T08:05:55Z",
             "owner": "cumulo-autumn",
             "repo": "StreamDiffusion",
-            "stars": 10805
+            "stars": 10806
           }
         },
         {
@@ -4987,7 +4987,7 @@
             "last_commit": "2024-11-28T09:04:06Z",
             "owner": "thu-ml",
             "repo": "CRM",
-            "stars": 694
+            "stars": 695
           }
         },
         {
@@ -5032,7 +5032,7 @@
             "last_commit": "2024-08-26T02:23:11Z",
             "owner": "carson-katri",
             "repo": "dream-textures",
-            "stars": 8194
+            "stars": 8195
           }
         },
         {
@@ -5218,7 +5218,7 @@
             "last_commit": "2024-06-05T08:14:18Z",
             "owner": "gd3kr",
             "repo": "BlenderGPT",
-            "stars": 4976
+            "stars": 4977
           }
         },
         {
@@ -5245,10 +5245,10 @@
             "archived": false,
             "id": 944414751,
             "language": "Python",
-            "last_commit": "2026-08-24T11:12:00Z",
+            "last_commit": "2026-08-26T07:39:51Z",
             "owner": "ahujasid",
             "repo": "blender-mcp",
-            "stars": 26292
+            "stars": 26346
           }
         },
         {
@@ -5263,7 +5263,7 @@
             "last_commit": "2024-08-22T07:17:07Z",
             "owner": "NVlabs",
             "repo": "CF-3DGS",
-            "stars": 787
+            "stars": 788
           }
         },
         {
@@ -5278,7 +5278,7 @@
             "last_commit": "2025-04-11T04:36:44Z",
             "owner": "zjp-shadow",
             "repo": "CharacterGen",
-            "stars": 823
+            "stars": 824
           }
         },
         {
@@ -5368,7 +5368,7 @@
             "last_commit": "2025-09-24T16:32:31Z",
             "owner": "naver",
             "repo": "dust3r",
-            "stars": 7287
+            "stars": 7288
           }
         },
         {
@@ -5428,7 +5428,7 @@
             "last_commit": "2025-01-13T07:46:58Z",
             "owner": "hustvl",
             "repo": "GaussianDreamer",
-            "stars": 829
+            "stars": 831
           }
         },
         {
@@ -5458,7 +5458,7 @@
             "last_commit": "2025-11-19T07:07:41Z",
             "owner": "Tencent-Hunyuan",
             "repo": "Hunyuan3D-1",
-            "stars": 3481
+            "stars": 3482
           }
         },
         {
@@ -5473,7 +5473,7 @@
             "last_commit": "2025-10-28T09:58:12Z",
             "owner": "Tencent-Hunyuan",
             "repo": "Hunyuan3D-2",
-            "stars": 14581
+            "stars": 14646
           }
         },
         {
@@ -5488,7 +5488,7 @@
             "last_commit": "2025-10-17T10:10:07Z",
             "owner": "Tencent-Hunyuan",
             "repo": "Hunyuan3D-2.1",
-            "stars": 3904
+            "stars": 3917
           }
         },
         {
@@ -5500,10 +5500,10 @@
             "archived": false,
             "id": 654905384,
             "language": "Python",
-            "last_commit": "2026-08-05T01:40:06Z",
+            "last_commit": "2026-08-26T14:23:49Z",
             "owner": "princeton-vl",
             "repo": "infinigen",
-            "stars": 7218
+            "stars": 7222
           }
         },
         {
@@ -5593,7 +5593,7 @@
             "last_commit": "2026-02-02T12:32:34Z",
             "owner": "NVlabs",
             "repo": "instant-ngp",
-            "stars": 17532
+            "stars": 17535
           }
         },
         {
@@ -5653,7 +5653,7 @@
             "last_commit": "2024-07-04T19:05:34Z",
             "owner": "openai",
             "repo": "point-e",
-            "stars": 6893
+            "stars": 6895
           }
         },
         {
@@ -5668,7 +5668,7 @@
             "last_commit": "2025-01-22T14:55:42Z",
             "owner": "Stability-AI",
             "repo": "stable-fast-3d",
-            "stars": 1793
+            "stars": 1794
           }
         },
         {
@@ -5683,7 +5683,7 @@
             "last_commit": "2024-06-22T19:19:14Z",
             "owner": "openai",
             "repo": "shap-e",
-            "stars": 12259
+            "stars": 12261
           }
         },
         {
@@ -5698,7 +5698,7 @@
             "last_commit": "2023-12-10T23:17:27Z",
             "owner": "ashawkey",
             "repo": "stable-dreamfusion",
-            "stars": 8853
+            "stars": 8854
           }
         },
         {
@@ -5728,7 +5728,7 @@
             "last_commit": "2024-06-06T19:14:00Z",
             "owner": "UMass-Embodied-AGI",
             "repo": "3D-LLM",
-            "stars": 1211
+            "stars": 1212
           }
         },
         {
@@ -5773,7 +5773,7 @@
             "last_commit": "2024-12-16T06:11:15Z",
             "owner": "threestudio-project",
             "repo": "threestudio",
-            "stars": 7058
+            "stars": 7059
           }
         },
         {
@@ -5788,7 +5788,7 @@
             "last_commit": "2026-06-04T07:11:09Z",
             "owner": "VAST-AI-Research",
             "repo": "TripoSR",
-            "stars": 6885
+            "stars": 6888
           }
         },
         {
@@ -5803,7 +5803,7 @@
             "last_commit": "2025-07-17T21:29:05Z",
             "owner": "AiuniAI",
             "repo": "Unique3D",
-            "stars": 3580
+            "stars": 3579
           }
         },
         {
@@ -5848,7 +5848,7 @@
             "last_commit": "2025-03-14T07:09:19Z",
             "owner": "xxlong0",
             "repo": "Wonder3D",
-            "stars": 5423
+            "stars": 5425
           }
         },
         {
@@ -5959,7 +5959,7 @@
             "last_commit": "2026-08-05T09:54:40Z",
             "owner": "duixcom",
             "repo": "Duix-Mobile",
-            "stars": 8196
+            "stars": 8198
           }
         },
         {
@@ -5974,7 +5974,7 @@
             "last_commit": "2026-04-07T04:02:07Z",
             "owner": "antgroup",
             "repo": "echomimic",
-            "stars": 4288
+            "stars": 4292
           }
         },
         {
@@ -6079,7 +6079,7 @@
             "last_commit": "2024-09-14T13:23:02Z",
             "owner": "fudan-generative-vision",
             "repo": "hallo",
-            "stars": 8665
+            "stars": 8664
           }
         },
         {
@@ -6124,7 +6124,7 @@
             "last_commit": "2025-12-16T12:32:46Z",
             "owner": "Tencent-Hunyuan",
             "repo": "HunyuanVideo-Avatar",
-            "stars": 2154
+            "stars": 2156
           }
         },
         {
@@ -6154,7 +6154,7 @@
             "last_commit": "2026-02-10T05:17:05Z",
             "owner": "Kedreamix",
             "repo": "Linly-Talker",
-            "stars": 3434
+            "stars": 3436
           }
         },
         {
@@ -6169,7 +6169,7 @@
             "last_commit": "2026-06-01T17:25:09Z",
             "owner": "KlingAIResearch",
             "repo": "LivePortrait",
-            "stars": 18968
+            "stars": 18969
           }
         },
         {
@@ -6184,7 +6184,7 @@
             "last_commit": "2025-07-01T18:22:15Z",
             "owner": "OpenMotionLab",
             "repo": "MotionGPT",
-            "stars": 1960
+            "stars": 1961
           }
         },
         {
@@ -6214,7 +6214,7 @@
             "last_commit": "2025-09-26T05:44:17Z",
             "owner": "TMElyralab",
             "repo": "MuseTalk",
-            "stars": 6453
+            "stars": 6459
           }
         },
         {
@@ -6229,7 +6229,7 @@
             "last_commit": "2024-06-28T04:21:48Z",
             "owner": "TMElyralab",
             "repo": "MuseV",
-            "stars": 2845
+            "stars": 2846
           }
         },
         {
@@ -6340,7 +6340,7 @@
             "last_commit": "2024-07-31T01:14:15Z",
             "owner": "guoyww",
             "repo": "AnimateDiff",
-            "stars": 12226
+            "stars": 12227
           }
         },
         {
@@ -6412,10 +6412,10 @@
             "archived": false,
             "id": 679869950,
             "language": "Python",
-            "last_commit": "2026-08-25T17:13:29Z",
+            "last_commit": "2026-08-26T19:39:17Z",
             "owner": "facefusion",
             "repo": "facefusion",
-            "stars": 29693
+            "stars": 29706
           }
         },
         {
@@ -6460,7 +6460,7 @@
             "last_commit": "2026-07-18T15:13:36Z",
             "owner": "Tencent-Hunyuan",
             "repo": "HY-Motion-1.0",
-            "stars": 2517
+            "stars": 2519
           }
         },
         {
@@ -6475,7 +6475,7 @@
             "last_commit": "2026-07-16T08:14:26Z",
             "owner": "bilibili",
             "repo": "Index-anisora",
-            "stars": 2503
+            "stars": 2505
           }
         },
         {
@@ -6490,7 +6490,7 @@
             "last_commit": "2024-06-26T12:51:53Z",
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14035
+            "stars": 14040
           }
         },
         {
@@ -6565,7 +6565,7 @@
             "last_commit": "2025-06-22T02:41:21Z",
             "owner": "Rudrabha",
             "repo": "Wav2Lip",
-            "stars": 13180
+            "stars": 13182
           }
         }
       ],
@@ -6601,7 +6601,7 @@
             "last_commit": "2026-07-10T01:20:32Z",
             "owner": "nadermx",
             "repo": "backgroundremover",
-            "stars": 8019
+            "stars": 8020
           }
         },
         {
@@ -6631,7 +6631,7 @@
             "last_commit": "2025-11-04T11:19:04Z",
             "owner": "zai-org",
             "repo": "CogVideo",
-            "stars": 12973
+            "stars": 12977
           }
         },
         {
@@ -6646,7 +6646,7 @@
             "last_commit": "2024-05-29T10:01:33Z",
             "owner": "zai-org",
             "repo": "CogVLM",
-            "stars": 6743
+            "stars": 6744
           }
         },
         {
@@ -6673,10 +6673,10 @@
             "archived": false,
             "id": 728770766,
             "language": "Python",
-            "last_commit": "2026-08-25T08:27:40Z",
+            "last_commit": "2026-08-26T06:16:01Z",
             "owner": "modelscope",
             "repo": "DiffSynth-Studio",
-            "stars": 12993
+            "stars": 13003
           }
         },
         {
@@ -6781,7 +6781,7 @@
             "last_commit": "2026-06-29T09:33:50Z",
             "owner": "Tencent-Hunyuan",
             "repo": "HunyuanVideo",
-            "stars": 12468
+            "stars": 12476
           }
         },
         {
@@ -6796,7 +6796,7 @@
             "last_commit": "2026-04-10T06:14:59Z",
             "owner": "Tencent-Hunyuan",
             "repo": "HunyuanVideo-1.5",
-            "stars": 4532
+            "stars": 4534
           }
         },
         {
@@ -6811,7 +6811,7 @@
             "last_commit": "2026-05-22T02:35:51Z",
             "owner": "MeiGen-AI",
             "repo": "InfiniteTalk",
-            "stars": 7695
+            "stars": 7700
           }
         },
         {
@@ -6826,7 +6826,7 @@
             "last_commit": "2026-08-07T02:35:21Z",
             "owner": "NVlabs",
             "repo": "LongLive",
-            "stars": 2564
+            "stars": 2563
           }
         },
         {
@@ -6841,7 +6841,7 @@
             "last_commit": "2026-01-05T22:37:07Z",
             "owner": "Lightricks",
             "repo": "LTX-Video",
-            "stars": 10901
+            "stars": 10907
           }
         },
         {
@@ -6901,7 +6901,7 @@
             "last_commit": "2025-11-14T01:17:56Z",
             "owner": "genmoai",
             "repo": "mochi",
-            "stars": 3712
+            "stars": 3713
           }
         },
         {
@@ -6928,10 +6928,10 @@
             "archived": false,
             "id": 770153867,
             "language": "Python",
-            "last_commit": "2026-08-25T10:01:45Z",
+            "last_commit": "2026-08-26T09:37:30Z",
             "owner": "harry0703",
             "repo": "MoneyPrinterTurbo",
-            "stars": 116416
+            "stars": 116909
           }
         },
         {
@@ -7021,7 +7021,7 @@
             "last_commit": "2026-04-09T01:52:40Z",
             "owner": "hpcaitech",
             "repo": "Open-Sora",
-            "stars": 29313
+            "stars": 29314
           }
         },
         {
@@ -7036,7 +7036,7 @@
             "last_commit": "2026-03-08T12:48:46Z",
             "owner": "PKU-YuanGroup",
             "repo": "Open-Sora-Plan",
-            "stars": 12147
+            "stars": 12155
           }
         },
         {
@@ -7051,7 +7051,7 @@
             "last_commit": "2025-11-15T02:55:20Z",
             "owner": "character-ai",
             "repo": "Ovi",
-            "stars": 1746
+            "stars": 1748
           }
         },
         {
@@ -7081,7 +7081,7 @@
             "last_commit": "2025-02-10T19:33:18Z",
             "owner": "RayVentura",
             "repo": "ShortGPT",
-            "stars": 7882
+            "stars": 7884
           }
         },
         {
@@ -7171,7 +7171,7 @@
             "last_commit": "2025-12-16T08:36:18Z",
             "owner": "Stability-AI",
             "repo": "generative-models",
-            "stars": 27269
+            "stars": 27271
           }
         },
         {
@@ -7261,7 +7261,7 @@
             "last_commit": "2023-10-25T02:00:06Z",
             "owner": "showlab",
             "repo": "Tune-A-Video",
-            "stars": 4365
+            "stars": 4364
           }
         },
         {
@@ -7411,7 +7411,7 @@
             "last_commit": "2025-02-27T23:15:27Z",
             "owner": "facebookresearch",
             "repo": "jepa",
-            "stars": 4103
+            "stars": 4104
           }
         },
         {
@@ -7426,7 +7426,7 @@
             "last_commit": "2026-03-05T09:38:07Z",
             "owner": "Wan-Video",
             "repo": "Wan2.1",
-            "stars": 16889
+            "stars": 16893
           }
         },
         {
@@ -7441,7 +7441,7 @@
             "last_commit": "2026-03-17T10:48:41Z",
             "owner": "Wan-Video",
             "repo": "Wan2.2",
-            "stars": 17281
+            "stars": 17291
           }
         },
         {
@@ -7492,7 +7492,7 @@
             "last_commit": "2026-03-25T14:11:57Z",
             "owner": "open-mmlab",
             "repo": "Amphion",
-            "stars": 10268
+            "stars": 10271
           }
         },
         {
@@ -7552,7 +7552,7 @@
             "last_commit": "2024-07-06T21:35:18Z",
             "owner": "AIGC-Audio",
             "repo": "AudioGPT",
-            "stars": 10169
+            "stars": 10167
           }
         },
         {
@@ -7657,7 +7657,7 @@
             "last_commit": "2025-09-28T17:48:49Z",
             "owner": "Tencent-Hunyuan",
             "repo": "HunyuanVideo-Foley",
-            "stars": 1051
+            "stars": 1052
           }
         },
         {
@@ -7717,7 +7717,7 @@
             "last_commit": "2026-02-23T06:09:19Z",
             "owner": "hkchengrex",
             "repo": "MMAudio",
-            "stars": 2263
+            "stars": 2264
           }
         },
         {
@@ -7807,7 +7807,7 @@
             "last_commit": "2026-04-03T03:07:58Z",
             "owner": "QwenAudio",
             "repo": "ThinkSound",
-            "stars": 1377
+            "stars": 1378
           }
         },
         {
@@ -7963,7 +7963,7 @@
             "last_commit": "2026-03-03T21:50:32Z",
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23580
+            "stars": 23586
           }
         },
         {
@@ -8008,7 +8008,7 @@
             "last_commit": "2025-06-04T13:08:48Z",
             "owner": "multimodal-art-projection",
             "repo": "YuE",
-            "stars": 6401
+            "stars": 6403
           }
         }
       ],
@@ -8044,7 +8044,7 @@
             "last_commit": "2026-08-04T07:47:32Z",
             "owner": "RVC-Project",
             "repo": "Retrieval-based-Voice-Conversion-WebUI",
-            "stars": 37815
+            "stars": 37845
           }
         },
         {
@@ -8092,10 +8092,10 @@
             "archived": false,
             "id": 675859069,
             "language": "Python",
-            "last_commit": "2026-08-25T12:01:00Z",
+            "last_commit": "2026-08-26T23:35:05Z",
             "owner": "IAHispano",
             "repo": "Applio",
-            "stars": 3640
+            "stars": 3645
           }
         },
         {
@@ -8110,7 +8110,7 @@
             "last_commit": "2024-08-19T07:45:36Z",
             "owner": "suno-ai",
             "repo": "bark",
-            "stars": 39248
+            "stars": 39249
           }
         },
         {
@@ -8125,7 +8125,7 @@
             "last_commit": "2026-08-24T19:14:49Z",
             "owner": "fishaudio",
             "repo": "Bert-VITS2",
-            "stars": 8795
+            "stars": 8796
           }
         },
         {
@@ -8140,7 +8140,7 @@
             "last_commit": "2026-07-21T12:27:05Z",
             "owner": "resemble-ai",
             "repo": "chatterbox",
-            "stars": 26149
+            "stars": 26163
           }
         },
         {
@@ -8155,7 +8155,7 @@
             "last_commit": "2026-04-10T16:33:48Z",
             "owner": "2noise",
             "repo": "ChatTTS",
-            "stars": 39795
+            "stars": 39797
           }
         },
         {
@@ -8170,7 +8170,7 @@
             "last_commit": "2026-05-25T18:15:40Z",
             "owner": "QwenAudio",
             "repo": "CosyVoice",
-            "stars": 22916
+            "stars": 22925
           }
         },
         {
@@ -8230,7 +8230,7 @@
             "last_commit": "2024-12-05T07:10:01Z",
             "owner": "zai-org",
             "repo": "GLM-4-Voice",
-            "stars": 3221
+            "stars": 3222
           }
         },
         {
@@ -8260,7 +8260,7 @@
             "last_commit": "2026-08-18T09:16:25Z",
             "owner": "RVC-Boss",
             "repo": "GPT-SoVITS",
-            "stars": 61216
+            "stars": 61255
           }
         },
         {
@@ -8275,7 +8275,7 @@
             "last_commit": "2026-06-05T04:01:06Z",
             "owner": "boson-ai",
             "repo": "higgs-audio",
-            "stars": 8328
+            "stars": 8329
           }
         },
         {
@@ -8290,7 +8290,7 @@
             "last_commit": "2026-08-18T06:52:28Z",
             "owner": "index-tts",
             "repo": "index-tts",
-            "stars": 23465
+            "stars": 23511
           }
         },
         {
@@ -8305,7 +8305,7 @@
             "last_commit": "2026-08-19T00:12:38Z",
             "owner": "KittenML",
             "repo": "KittenTTS",
-            "stars": 15395
+            "stars": 15403
           }
         },
         {
@@ -8320,7 +8320,7 @@
             "last_commit": "2026-06-05T03:49:38Z",
             "owner": "Liquid4All",
             "repo": "liquid-audio",
-            "stars": 564
+            "stars": 565
           }
         },
         {
@@ -8350,7 +8350,7 @@
             "last_commit": "2026-08-17T22:39:44Z",
             "owner": "shivammehta25",
             "repo": "Matcha-TTS",
-            "stars": 1348
+            "stars": 1349
           }
         },
         {
@@ -8365,7 +8365,7 @@
             "last_commit": "2024-12-24T19:17:13Z",
             "owner": "myshell-ai",
             "repo": "MeloTTS",
-            "stars": 7604
+            "stars": 7608
           }
         },
         {
@@ -8425,7 +8425,7 @@
             "last_commit": "2025-04-19T16:00:00Z",
             "owner": "myshell-ai",
             "repo": "OpenVoice",
-            "stars": 37289
+            "stars": 37312
           }
         },
         {
@@ -8470,7 +8470,7 @@
             "last_commit": "2026-08-18T02:13:34Z",
             "owner": "QwenAudio",
             "repo": "SenseVoice",
-            "stars": 9144
+            "stars": 9151
           }
         },
         {
@@ -8515,7 +8515,7 @@
             "last_commit": "2024-12-10T08:28:12Z",
             "owner": "huggingface",
             "repo": "parler-tts",
-            "stars": 5587
+            "stars": 5586
           }
         },
         {
@@ -8560,7 +8560,7 @@
             "last_commit": "2026-03-16T04:06:21Z",
             "owner": "stepfun-ai",
             "repo": "Step-Audio2",
-            "stars": 1501
+            "stars": 1503
           }
         },
         {
@@ -8575,7 +8575,7 @@
             "last_commit": "2024-08-10T00:48:18Z",
             "owner": "yl4579",
             "repo": "StyleTTS2",
-            "stars": 6334
+            "stars": 6336
           }
         },
         {
@@ -8605,7 +8605,7 @@
             "last_commit": "2024-11-19T18:59:13Z",
             "owner": "neonbjb",
             "repo": "tortoise-tts",
-            "stars": 14871
+            "stars": 14870
           }
         },
         {
@@ -8620,7 +8620,7 @@
             "last_commit": "2026-07-27T13:23:40Z",
             "owner": "rsxdalv",
             "repo": "TTS-WebUI",
-            "stars": 3243
+            "stars": 3244
           }
         },
         {
@@ -8635,7 +8635,7 @@
             "last_commit": "2026-07-24T09:24:29Z",
             "owner": "microsoft",
             "repo": "VibeVoice",
-            "stars": 53196
+            "stars": 53224
           }
         },
         {
@@ -8677,10 +8677,10 @@
             "archived": false,
             "id": 1057664813,
             "language": "Python",
-            "last_commit": "2026-08-12T14:14:37Z",
+            "last_commit": "2026-08-26T02:42:07Z",
             "owner": "OpenBMB",
             "repo": "VoxCPM",
-            "stars": 36113
+            "stars": 36145
           }
         },
         {
@@ -8695,7 +8695,7 @@
             "last_commit": "2026-07-28T20:18:29Z",
             "owner": "openai",
             "repo": "whisper",
-            "stars": 107926
+            "stars": 107981
           }
         },
         {
@@ -8710,7 +8710,7 @@
             "last_commit": "2025-12-14T11:11:47Z",
             "owner": "WhisperSpeech",
             "repo": "WhisperSpeech",
-            "stars": 4637
+            "stars": 4639
           }
         },
         {
@@ -8740,7 +8740,7 @@
             "last_commit": "2024-08-16T12:07:14Z",
             "owner": "coqui-ai",
             "repo": "TTS",
-            "stars": 45946
+            "stars": 45953
           }
         },
         {
@@ -8808,7 +8808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:13:31.112Z",
+    "last_updated": "2026-08-27T00:17:43.058Z",
     "original_repository": "Yuan-ManX/ai-game-devtools",
     "original_repository_id": 616764080,
     "original_repository_sha": "1200b26f1548e8a80adbcbb8ae567b902146c17d",
